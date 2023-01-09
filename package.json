@@ -1,0 +1,10 @@
+{
+  "name": "showcase",
+  "version": "1.0.0",
+  "scripts": {
+    "Showcase-deploy": "npx angular-cli-ghpages --dir=dist/ng-havas",
+    "Showcase-deploy-IfUGotError": "ngh --no-silent --dir=dist/ng-havas"
+  },
+  "dependencies": {
+  }
+}
